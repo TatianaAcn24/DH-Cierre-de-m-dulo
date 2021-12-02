@@ -82,8 +82,9 @@ const concesionaria = {
     }
 };
 
-/* console.log(concesionaria.buscarAuto('JJK116'));
+/* 
 console.log(concesionaria.buscarAuto('APL123'));
+console.log(concesionaria.buscarAuto('JJK116'));
 console.log(concesionaria.buscarAuto('ABC123'));
 console.log(concesionaria.venderAuto('APL123'));
 console.log(concesionaria.venderAuto('JJK116'));
